@@ -1,9 +1,8 @@
 ## Olá, eu sou o Matheus Rodrigues 👋
 
 
-- 🏫 Estudande em Bacharel Ciências da Computação.
-- 📚 Atualmente estou aprendendo HTML,CSS,JS.
-- ☮  Make love do not make war!!!!
+- 🏫 Bacharel Ciências da Computação.
+
 
 <a href="https://github.com/Matheusrodriguesalvesdossantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheusrodriguesalvesdossantos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
